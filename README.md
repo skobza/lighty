@@ -15,6 +15,7 @@ _This branch maintains compatibility with __OpenDaylight Aluminium,__ release._
 - [x] __Improved Speed__: Improved memory management & speed
 - [x] __Modularity__: Your application code can start, stop & restart modules, as required
 
+
 ## Use Cases
 
 - [OpenDaylight to lighty.io Migration](docs/ODL-migration-guide.md)
